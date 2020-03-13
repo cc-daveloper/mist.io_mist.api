@@ -72,7 +72,7 @@ pyparsing==2.2.0
 pyramid==1.4
 pytest==3.0.7
 pytest-cov==2.4.0
-python-gnupg==0.4.0
+python-gnupg==0.4.4
 python-memcached==1.58
 python-openid==2.2.5
 pytz==2017.2
