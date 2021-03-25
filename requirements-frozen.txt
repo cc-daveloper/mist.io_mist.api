@@ -76,7 +76,7 @@ python-gnupg==0.4.0
 python-memcached==1.58
 python-openid==2.2.5
 pytz==2017.2
-PyYAML==3.12
+PyYAML==5.4
 repoze.lru==0.6
 requests==2.13.0
 scandir==1.5
