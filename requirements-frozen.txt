@@ -4,7 +4,7 @@
 ## builds wont start failing just because of a new release of some dependency.
 
 amqp==1.4.9
-ansible==1.9.3
+ansible==2.10.0
 anyjson==0.3.3
 asn1crypto==0.22.0
 backports-abc==0.5
