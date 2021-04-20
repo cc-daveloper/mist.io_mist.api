@@ -11,7 +11,7 @@
 amqp==1.4.9
 # ansible v2 has a incompatible api
 # see https://serversforhackers.com/running-ansible-2-programmatically
-ansible==1.9.3
+ansible==2.9.20
 # celerybeat-mongo doesn't work with celery4 yet
 celery<4.0.0
 dnspython
