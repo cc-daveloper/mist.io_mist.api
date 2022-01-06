@@ -13,7 +13,7 @@ amqp==1.4.9
 # see https://serversforhackers.com/running-ansible-2-programmatically
 ansible==1.9.3
 # celerybeat-mongo doesn't work with celery4 yet
-celery<4.0.0
+celery<6.0.0
 dnspython
 elasticsearch
 elasticsearch_tornado
