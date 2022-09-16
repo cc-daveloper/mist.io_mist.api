@@ -35,7 +35,7 @@ iso8601==0.1.11
 Jinja2==2.9.6
 jsonpickle==0.9.4
 kombu==3.0.37
-Mako==1.0.6
+Mako==1.2.2
 MarkupSafe==1.0
 mccabe==0.6.1
 mock==2.0.0
